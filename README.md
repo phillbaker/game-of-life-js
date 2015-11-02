@@ -44,6 +44,8 @@ you go.
 This is a pairing exercise so your interviewee is your pair - treat them as
 such.  Ask questions.  Bounce ideas off of them, etc.
 
+After NPM installing, the tests can be run using `node test.js`.
+
 ## Inspiration
 
 Based on @daveworth's excellent [Game Of Life Pairing](https://github.com/daveworth/game_of_life_pairing).
