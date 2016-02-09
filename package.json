@@ -1,6 +1,6 @@
 {
-  "name": "mixu_minimal",
-  "description": "Minimal router and client",
+  "name": "game-of-life-js",
+  "description": "A base repository for pairing interviews based on the excellent Code Retreat format",
   "version": "0.0.1",
   "devDependencies": {
     "requirejs":"2.0",
